@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Java / Maven
+target/
+*.class
+*.log
+
+# Environment / sensitive config
+.env
+application-local.yml
+application-prod.yml
+
+# Frontend if exists
+node_modules/
+dist/
